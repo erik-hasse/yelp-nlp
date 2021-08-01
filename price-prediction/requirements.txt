@@ -1,0 +1,6 @@
+transformers
+scikit-learn
+tensorflow
+uvicorn
+fastapi
+pydantic

@@ -1,0 +1,7 @@
+logs*/
+results*/
+__pycache__
+*.tar
+data/*
+!data/.gitkeep
+*.ipynb*
